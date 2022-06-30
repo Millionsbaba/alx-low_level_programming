@@ -1,14 +1,10 @@
 #include <stdio.h>
 
 /**
+ * Description: Using puts function to print a text
  *
- *  * main - Entry point
- *
- *   *
- *
- *    * Return: Always 0 (Success)
- *
- *     */
+ * Return: Always 0 (success)
+ */
 
 int main(void)
 {
