@@ -5,8 +5,6 @@
 /*
  * main - Entry point
  *
- * Description: Print outpts using an if statement to make choices
- *
  * Return: Always 0 (success)
  */
 
