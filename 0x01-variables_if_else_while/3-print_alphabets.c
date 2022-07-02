@@ -18,7 +18,7 @@ int main(void)
 		putchar(letter);
 	        letter++;
 	}
-
+	
 	letter = 'A';
 
 	while (letter <= 'Z')
