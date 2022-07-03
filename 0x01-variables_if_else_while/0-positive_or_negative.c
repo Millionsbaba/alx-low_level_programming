@@ -3,9 +3,7 @@
 #include <stdio.h>
 
 /*
- * main - Entry point
- *
- * Description: 'A new source code to print if statememts'
+ * main - A new code for printing values using printf
  *
  * Return: Always 0 (success)
  */
