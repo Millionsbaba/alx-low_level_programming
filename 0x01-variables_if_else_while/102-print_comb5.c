@@ -6,7 +6,7 @@
  *
  * Return: Always 0 (success)
  */
-int main (void)
+int main(void)
 {
 	int c;
 	int f_d;
@@ -16,12 +16,12 @@ int main (void)
 	int f_d2;
 	int l_d2;
 
-	for (c =0; c <= 98; c++)
+	for (c = 0; c <= 98; c++)
 	{
 		f_d = (c / 10 + '0');
 		l_d = (c % 10 + '0');
 
-		for (c2 = 0; c2 <=99; c2++)
+		for (c2 = 0; c2 <= 99; c2++)
 		{
 			f_d2 = (c2 / 10 + '0');
 			l_d2 = (c2 % 10 + '0');
