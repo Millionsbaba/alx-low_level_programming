@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _putchar - Write lower case alphabets
+ * Write lower case alphabets using _putchar
  *
  * Return: Always 0 (success)
  */
