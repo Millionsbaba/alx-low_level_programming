@@ -1,11 +1,15 @@
 #include "main.h"
 
 /**
- * Write lower case alphabets using _putchar
+ * main - Write lower case alphabets using _putchar
  *
  * Return: Always 0 (success)
  */
 int main(void)
+
+/**
+ * A source to describe _puchar
+ */
 {
 	_putchar('_');
 	_putchar('p');
