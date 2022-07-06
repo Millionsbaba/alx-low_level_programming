@@ -5,11 +5,11 @@
  *
  * Return: Always 0 (success)
  */
-int main(void)
 
-/**
- * Description: A source to describe _puchar
+/*
+ * Description: A code to define the document
  */
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
