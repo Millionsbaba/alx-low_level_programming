@@ -7,7 +7,7 @@
  */
 
 /*
- * Description: A new function to print_alphabet
+ * Description: A code to define the document
  */
 void print_alphabet(void)
 {
