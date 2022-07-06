@@ -7,7 +7,7 @@
  */
 
 /*
- * Description: A new function to print alpahbets
+ * Description: A new function to print_alphabet
  */
 void print_alphabet(void)
 {
