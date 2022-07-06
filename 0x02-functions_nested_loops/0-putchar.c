@@ -8,8 +8,7 @@
 int main(void)
 
 /**
- * A source to describe _puchar
- * more code
+ * Description: A source to describe _puchar
  */
 {
 	_putchar('_');
