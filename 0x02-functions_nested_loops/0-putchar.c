@@ -7,9 +7,7 @@
  */
 int main(void)
 
-/**
- * A source to describe _puchar
- */
+//A source to describe _puchar
 {
 	_putchar('_');
 	_putchar('p');
