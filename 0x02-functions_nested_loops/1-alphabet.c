@@ -3,11 +3,9 @@
 /**
  * main - A source code to print alphabet
  *
+ * Description: A void code
+ *
  * Return: Always 0 (success)
- */
-
-/*
- * Description: A code to define the document
  */
 void print_alphabet(void)
 {
