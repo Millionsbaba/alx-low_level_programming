@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - A source code to print alphabet
+ * print_alphabet - A source code to print alphabet
  *
  * Description: A void code
  *
